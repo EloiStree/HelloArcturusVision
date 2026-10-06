@@ -20,3 +20,10 @@ Link:
 Support:
 - support@arcturus.vision
 - 
+
+
+Apps and software:
+- https://arcturus.vision/apps
+- Steam VR:
+   - View demo: https://github.com/EloiStree/HelloSteamFrame/issues/92
+   - View Gaussian XR: https://github.com/EloiStree/HelloSteamFrame/issues/91
