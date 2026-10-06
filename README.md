@@ -32,3 +32,9 @@ Apps and software:
 
 Tutorials / Manual:
 https://arcturus.vision/apps
+
+
+Big Reddit post where the CEO was answering question:   
+- https://www.reddit.com/r/SteamFrame/comments/1wu1cyr/ama_arcturus_vision_ceo_friday_2nd_october_121pm/
+  - https://www.reddit.com/user/3dpowers/
+  - https://www.reddit.com/user/aaronbryden/
