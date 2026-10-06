@@ -15,3 +15,8 @@ Manual:
 
 Link:
 - Website: https://arcturus.vision/
+
+
+Support:
+- support@arcturus.vision
+- 
