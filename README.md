@@ -1,7 +1,9 @@
-If you don't own the camera and want sample of the camera record.
-Feel free to ping me on Discord: 
-My Discord: https://discord.gg/4sGN5DgHRe
-Steam Frame Discord : https://discord.com/invite/steamframe
+If you don't own the camera and want sample of the camera record.   
+Feel free to ping me on Discord:    
+My Discord: https://discord.gg/4sGN5DgHRe  
+Steam Frame Discord : https://discord.com/invite/steamframe  
+
+---------
 
 # Hello Arcturus Vision
 
