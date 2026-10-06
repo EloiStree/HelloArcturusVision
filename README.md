@@ -38,3 +38,11 @@ Big Reddit post where the CEO was answering question:
 - https://www.reddit.com/r/SteamFrame/comments/1wu1cyr/ama_arcturus_vision_ceo_friday_2nd_october_121pm/
   - https://www.reddit.com/user/3dpowers/
   - https://www.reddit.com/user/aaronbryden/
+
+
+
+----------------
+
+[<img width="908" height="645" alt="image" src="https://github.com/user-attachments/assets/d0831a07-cb8a-46d7-bcfd-efd325ea1207" />](https://github.com/EloiStree/HelloArcturusVision/issues/15)  
+https://github.com/EloiStree/HelloArcturusVision/issues/15 
+
